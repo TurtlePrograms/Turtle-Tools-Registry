@@ -1,0 +1,16 @@
+{
+    "plugins": {
+        "programming-tools": {
+            "name": "Programming Tools",
+            "description": "A set of tools for developers.",
+            "repo": "https://github.com/your-username/programming-tools-plugin",
+            "latest_version": "1.0.0"
+        },
+        "file-utils": {
+            "name": "File Utilities",
+            "description": "Utilities for file management.",
+            "repo": "https://github.com/your-username/file-utils-plugin",
+            "latest_version": "1.2.3"
+        }
+    }
+}
